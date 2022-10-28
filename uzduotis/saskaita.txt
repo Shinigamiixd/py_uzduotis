@@ -1,0 +1,257 @@
+visu zenkliuku kiekis: 197
+visu zenkliuku kaina be akciju: 985 Eur
+visu zenkliuku kaina su akcijomis: 959 Eur
+
+Austėja zenkliuku kaina: 5 Eur
+
+Kristupas zenkliuku kaina: 5 Eur
+
+Rugilė zenkliuku kaina: 5 Eur
+
+Ugnė zenkliuku kaina: 3 Eur
+
+Kamilė zenkliuku kaina: 2 Eur
+
+Erikas zenkliuku kaina: 3 Eur
+
+Antonios zenkliuku kaina: 1 Eur
+
+Raigardas zenkliuku kaina: 1 Eur
+
+Bernardas zenkliuku kaina: 1 Eur
+
+Vestina zenkliuku kaina: 1 Eur
+
+Vakarė zenkliuku kaina: 2 Eur
+
+Kernius zenkliuku kaina: 1 Eur
+
+Armanda zenkliuku kaina: 1 Eur
+
+Ignas zenkliuku kaina: 1 Eur
+
+Arminas zenkliuku kaina: 2 Eur
+
+Evelina zenkliuku kaina: 1 Eur
+
+Viltė zenkliuku kaina: 5 Eur
+
+Tomas zenkliuku kaina: 1 Eur
+
+Vakaris zenkliuku kaina: 2 Eur
+
+Jokūbas zenkliuku kaina: 2 Eur
+
+Kasparas zenkliuku kaina: 1 Eur
+
+Oskaras zenkliuku kaina: 1 Eur
+
+Daniela zenkliuku kaina: 1 Eur
+
+Danielė zenkliuku kaina: 2 Eur
+
+Titas zenkliuku kaina: 2 Eur
+
+Rokas zenkliuku kaina: 2 Eur
+
+Mantas zenkliuku kaina: 1 Eur
+
+Akvilė zenkliuku kaina: 1 Eur
+
+Naglis zenkliuku kaina: 1 Eur
+
+Matas zenkliuku kaina: 3 Eur
+
+Augustė zenkliuku kaina: 1 Eur
+
+Dovydas zenkliuku kaina: 3 Eur
+
+Paulius zenkliuku kaina: 2 Eur
+
+Laurynas zenkliuku kaina: 2 Eur
+
+Lauryna zenkliuku kaina: 1 Eur
+
+Smiltė zenkliuku kaina: 2 Eur
+
+Arijielė zenkliuku kaina: 1 Eur
+
+Lukas zenkliuku kaina: 4 Eur
+
+Nojus zenkliuku kaina: 3 Eur
+
+Justinas zenkliuku kaina: 2 Eur
+
+Dominykas zenkliuku kaina: 7 Eur
+
+Simonas zenkliuku kaina: 1 Eur
+
+Arnas zenkliuku kaina: 3 Eur
+
+Milana zenkliuku kaina: 1 Eur
+
+Nida zenkliuku kaina: 1 Eur
+
+Tajus zenkliuku kaina: 1 Eur
+
+Gabija zenkliuku kaina: 3 Eur
+
+Liepa zenkliuku kaina: 1 Eur
+
+Luka zenkliuku kaina: 1 Eur
+
+Gustė zenkliuku kaina: 2 Eur
+
+Saulė zenkliuku kaina: 2 Eur
+
+Goda zenkliuku kaina: 1 Eur
+
+Romena zenkliuku kaina: 1 Eur
+
+Ainė zenkliuku kaina: 2 Eur
+
+Patrikas zenkliuku kaina: 1 Eur
+
+Gabrielė zenkliuku kaina: 2 Eur
+
+Šarūnas zenkliuku kaina: 1 Eur
+
+Herkus zenkliuku kaina: 1 Eur
+
+Domas zenkliuku kaina: 5 Eur
+
+Jovydas zenkliuku kaina: 1 Eur
+
+Beatričė zenkliuku kaina: 1 Eur
+
+Melita zenkliuku kaina: 1 Eur
+
+Tadas zenkliuku kaina: 2 Eur
+
+Urtė zenkliuku kaina: 2 Eur
+
+Deividas zenkliuku kaina: 1 Eur
+
+Dominyka zenkliuku kaina: 1 Eur
+
+Dorotėja zenkliuku kaina: 1 Eur
+
+Gaudrė zenkliuku kaina: 1 Eur
+
+Jomilė zenkliuku kaina: 1 Eur
+
+Tumas zenkliuku kaina: 1 Eur
+
+Karina zenkliuku kaina: 1 Eur
+
+Emilija zenkliuku kaina: 1 Eur
+
+Ūla zenkliuku kaina: 1 Eur
+
+Ernestas zenkliuku kaina: 2 Eur
+
+Miglė zenkliuku kaina: 2 Eur
+
+Kamėja zenkliuku kaina: 1 Eur
+
+Danas zenkliuku kaina: 1 Eur
+
+Amelija zenkliuku kaina: 1 Eur
+
+Milda zenkliuku kaina: 3 Eur
+
+Monika zenkliuku kaina: 1 Eur
+
+Estela zenkliuku kaina: 1 Eur
+
+Lėja zenkliuku kaina: 1 Eur
+
+Emilijus zenkliuku kaina: 1 Eur
+
+Danius zenkliuku kaina: 1 Eur
+
+Kajus zenkliuku kaina: 1 Eur
+
+Martyna zenkliuku kaina: 1 Eur
+
+Viktorija zenkliuku kaina: 3 Eur
+
+Meda zenkliuku kaina: 1 Eur
+
+Danielius zenkliuku kaina: 1 Eur
+
+Atėnė zenkliuku kaina: 1 Eur
+
+Vilius zenkliuku kaina: 1 Eur
+
+Roberta zenkliuku kaina: 1 Eur
+
+Elinga zenkliuku kaina: 1 Eur
+
+Martynas zenkliuku kaina: 3 Eur
+
+Dovilė zenkliuku kaina: 1 Eur
+
+Stela zenkliuku kaina: 1 Eur
+
+Atlanta zenkliuku kaina: 1 Eur
+
+Temidė zenkliuku kaina: 1 Eur
+
+Ieva zenkliuku kaina: 2 Eur
+
+Orinta zenkliuku kaina: 1 Eur
+
+Nedas zenkliuku kaina: 1 Eur
+
+Justas zenkliuku kaina: 1 Eur
+
+Redas zenkliuku kaina: 1 Eur
+
+Dinaras zenkliuku kaina: 1 Eur
+
+Arijus zenkliuku kaina: 1 Eur
+
+Ugnius zenkliuku kaina: 1 Eur
+
+Auksė zenkliuku kaina: 1 Eur
+
+Tėja zenkliuku kaina: 1 Eur
+
+Patricija zenkliuku kaina: 1 Eur
+
+Linas zenkliuku kaina: 1 Eur
+
+Juta zenkliuku kaina: 1 Eur
+
+Pijus zenkliuku kaina: 1 Eur
+
+Gabrielius zenkliuku kaina: 1 Eur
+
+Eigintas zenkliuku kaina: 1 Eur
+
+Gretė zenkliuku kaina: 1 Eur
+
+Nikodemas zenkliuku kaina: 1 Eur
+
+Zigmantas zenkliuku kaina: 1 Eur
+
+Greta zenkliuku kaina: 1 Eur
+
+Gerda zenkliuku kaina: 1 Eur
+
+Edvinas zenkliuku kaina: 1 Eur
+
+Samanta zenkliuku kaina: 1 Eur
+
+Paulina zenkliuku kaina: 1 Eur
+
+Emilis zenkliuku kaina: 1 Eur
+
+Kornelija zenkliuku kaina: 1 Eur
+
+Rūta zenkliuku kaina: 1 Eur
+
+Deimantė zenkliuku kaina: 1 Eur
+
+Julius zenkliuku kaina: 1 Eur

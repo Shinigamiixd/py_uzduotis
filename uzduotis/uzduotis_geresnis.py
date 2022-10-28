@@ -1,7 +1,6 @@
 import os
 
 # !PER CODERUNNER EXTENSION NEVEIKIA DEL ENCODING ERRORS(win11?)! #
-# !VEIKIA TIK SU PYTHON 3.6+ DEL 13 LINE! #
 
 vardai = []
 path = os.listdir(os.getcwd())
